@@ -1,0 +1,7 @@
+"./key_button.obj"
+"./main.obj"
+"./oled.obj"
+"./setclock.obj"
+"../lnk_msp430f6638.cmd"
+-llibmath.a
+-llibc.a
